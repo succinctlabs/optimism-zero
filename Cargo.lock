@@ -4168,6 +4168,7 @@ version = "0.1.0"
 dependencies = [
  "alloy-primitives",
  "anyhow",
+ "bincode",
  "cargo_metadata",
  "clap",
  "csv",
